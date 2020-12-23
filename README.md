@@ -1,4 +1,3 @@
-# Database-with-MongoDB
+# Machine-learning-with-Python
 
-In this project, a database of 500,000 fake soccer players is created in Python.
-For this No SQL database, MongoDB is running querries.
+I have developed the code to several supervised and unsupervised algorithms.
